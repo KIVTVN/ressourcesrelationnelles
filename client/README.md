@@ -1,3 +1,15 @@
+# How to install
+
+1. Install node.js if you don't already have it installed on your computer
+
+2. Open a Code Editor, a Terminal and move to your working folder using cd commands in terminal (ex: Dev/WebDev/)
+
+3. Type "git clone https://github.com/KIVTVN/ressourcesrelationnelles.git" in your terminal when pointing to your working folder
+
+4. move to client folder in your new "ressourcesrelationnelles" directory using "cd client"
+
+5. Type "npm install" to install all modules and "npm start" to run the client react app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
